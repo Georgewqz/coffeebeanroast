@@ -53,6 +53,14 @@ footer {
 	text-align: center
 }
 
+#tdpointermode1{
+    width: 20%;
+    text-align: left;
+}
+
+#cen{
+    text-align: center
+}
 #uploadImage{
     float:left
 }
@@ -99,4 +107,7 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+#title_width{
+    width:80px;
 }
